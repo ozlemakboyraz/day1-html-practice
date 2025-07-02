@@ -8,7 +8,8 @@ Bu projede, temel HTML bilgilerini kullanarak bir **Giriş (Login)** ve **Kayıt
 - `signup.html`: Yeni kullanıcı kayıt formu
 
 ##  Giriş Yap Sayfası
-![Login](ss/login.PNG)
+
+![login](https://github.com/user-attachments/assets/b4ed22d5-3f74-4e72-836b-9c1413eee695)
 
 ##  Kayıt Ol Sayfası
-![Signup](ss/signup.PNG)
+![signup](https://github.com/user-attachments/assets/6438e189-ea7f-4c06-97d3-cea6cdaed4cf)
